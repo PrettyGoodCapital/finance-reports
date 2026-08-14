@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: 7cb1c26
+_src_path: https://github.com/python-project-templates/base.git
+add_docs: true
+add_extension: python
+add_wiki: false
+email: prettygoodcapital@gmail.com
+github: prettygoodcapital
+project_description: Standard financial reports
+project_name: finance reports
+python_version_primary: '3.11'
+team: PrettyGoodCapital
