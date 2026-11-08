@@ -1,0 +1,21 @@
+finance_reports
+===============
+
+.. py:module:: finance_reports
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   finance_reports.__version__
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   :value: '0.1.0'
+
+
